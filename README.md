@@ -275,11 +275,11 @@
                 <div class="contact-info">
                   <div class="info-item">
                     <i class="fas fa-envelope"></i>
-                    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+                    <p>Email: <a href="mailto:your-aninishub@gmail.com">your-aninishub@gmail.com</a></p>
                   </div>
                   <div class="info-item">
                     <i class="fas fa-phone-alt"></i>
-                    <p>Phone: <a href="tel:+123456789">+123456789</a></p>
+                    <p>Phone: <a href="tel:+91 7397672930">+7397672930</a></p>
                   </div>
                   <div class="info-item">
                     <i class="fas fa-map-marker-alt"></i>
